@@ -33,7 +33,7 @@ dependencies = [
     'applicationinsights==0.11.9',
     'pyyaml>=5.4',
     'jsonpath_rw',
-    'docker-compose==1.29.1',
+    'docker-compose==1.29.2',
     'regex'
 ]
 
